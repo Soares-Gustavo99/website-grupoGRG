@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+}
+
+h1 {
+    color: #2c3e50; /* Cor do texto */
+    font-size: 36px; /* Tamanho da fonte */
+    text-align: center; /* Alinhar o título no centro */
+    margin-top: 50px; /* Espaçamento acima do título */
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
